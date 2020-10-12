@@ -4,4 +4,4 @@ class Foo:
         return x + 1
 
     def foo2(self, x):
-        return x + 2
+        return x + 1
